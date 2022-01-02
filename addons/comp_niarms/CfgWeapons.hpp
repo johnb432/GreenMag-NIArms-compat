@@ -26,6 +26,10 @@ class CfgWeapons {
     #include "cfg\ammo\300BO_RNBT.hpp"
     #include "cfg\ammo\300BO_SMK.hpp"
 
+    #include "cfg\ammo\3006S_basic.hpp"
+    #include "cfg\ammo\3006S_M2.hpp"
+    #include "cfg\ammo\3006S_M2T.hpp"
+
     #include "cfg\ammo\300win_A191.hpp"
     #include "cfg\ammo\300win_AP.hpp"
     #include "cfg\ammo\300win_basic.hpp"
@@ -103,8 +107,4 @@ class CfgWeapons {
     #include "cfg\belts\belts_792x57_SmKL.hpp"
     #include "cfg\belts\belts_792x57_sS.hpp"
     #include "cfg\belts\belts_792x57_tracer.hpp"
-
-    #include "cfg\ammo\3006S_basic.hpp"
-    #include "cfg\ammo\3006S_M2.hpp"
-    #include "cfg\ammo\3006S_M2T.hpp"
 };

@@ -1,8 +1,6 @@
 #include "\x\cba\addons\main\script_macros_common.hpp"
-#include "\x\cba\addons\xeh\script_xeh.hpp"
 
 // This is done in case prefix/component has to be changed
-
 #define GGVAR(var1) greenmag_##var1
 #define GEGVAR(var1,var2) TRIPLES(greenmag,var1,var2)
 #define QGEGVAR(var1,var2) QUOTE(GEGVAR(var1,var2))

@@ -34,7 +34,7 @@ class hlc_200rnd_556x45_Mdim_SAW: hlc_200rnd_556x45_M_SAW {
     GBELT(556x45,IRtracer,basic);
 };
 
-//TAC50 Magazines
+// TAC50 Magazines
 class hlc_5Rnd_50BMG_B_TAC50: hlc_50Rnd_45ACP_B_1921 {
     GAMMO(127x99,basic,basic);
 };

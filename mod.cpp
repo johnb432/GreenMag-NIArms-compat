@@ -1,6 +1,12 @@
-name = "GreenMag-NIArms compat";
-description = "GreenMag - NIArms compat mod made by johnb43";
-tooltip = "GreenMag - NIArms compat";
-tooltipOwned = "GreenMag - NIArms compat";
-overview = "";
+name = "GreenMag - NIArms AiO (New) COMPAT";
 author = "johnb43";
+tooltipOwned = "GreenMag - NIArms AiO (New) COMPAT";
+hideName = 0;
+hidePicture = 0;
+actionName = "Github";
+action = "https://github.com/johnb432/GreenMag-NIArms-compat";
+description = "GreenMag - NIArms AiO (New) compat mod made by johnb43.";
+overview = "GreenMag - NIArms AiO (New) compat mod made by johnb43.";
+picture = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";
+logo = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";
+overviewPicture = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";

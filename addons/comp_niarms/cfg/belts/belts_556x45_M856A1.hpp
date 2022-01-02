@@ -16,9 +16,9 @@ class GEGVAR(CoreBelt,556x45_M856A1): CBA_MiscItem {
     GGVAR(ammo) = QGEGVAR(ammo,TRIPLES(556x45,M855A1,1Rnd));
     GGVAR(typeName) = "556x45_M856A1";
 
-   	class ItemInfo: CBA_MiscItem_ItemInfo {
-   		   mass = 0.15;
-   	};
+    class ItemInfo: CBA_MiscItem_ItemInfo {
+        mass = 0.15;
+    };
 };
 
 //5.56x45
