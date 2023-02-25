@@ -1,4 +1,4 @@
-//Bren Gun Magazines
+// Bren Gun Magazines
 class hlc_30Rnd_303_B_bren : hlc_50Rnd_45ACP_B_1921 {
     GAMMO(303British,basic,basic);
 };

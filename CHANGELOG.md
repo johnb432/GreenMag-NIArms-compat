@@ -1,3 +1,8 @@
+# Changelog for GreenMag - NIArms compat 25.2.2023
+
+1.0.0.2
+- Support for most recent NIArms release.
+
 # Changelog for GreenMag - NIArms compat 2.1.2022
 
 1.0.0.1

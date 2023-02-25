@@ -39,23 +39,6 @@ class CfgPatches {
     };
 };
 
-class CfgMods {
-    class PREFIX {
-        name = "GreenMag - NIArms AiO (New) COMPAT";
-        author = "johnb43";
-        tooltipOwned = "GreenMag - NIArms AiO (New) COMPAT";
-        hideName = 0;
-        hidePicture = 0;
-        actionName = "Github";
-        action = "https://github.com/johnb432/GreenMag-NIArms-compat";
-        description = "GreenMag - NIArms AiO (New) compat mod made by johnb43.";
-        overview = "GreenMag - NIArms AiO (New) compat mod made by johnb43.";
-        picture = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";
-        logo = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";
-        overviewPicture = "\z\greenmag\addons\comp_niarms\ui\logo_greenmag_niarms_compat.paa";
-    };
-};
-
 #include "CfgWeapons.hpp"
 
 class CfgMagazines {
@@ -76,12 +59,16 @@ class CfgMagazines {
     #include "magazines\CfgMagMisc.hpp"
     #include "magazines\CfgMagPistolMisc.hpp"
     #include "magazines\CfgMagRifleMisc.hpp"
+    #include "magazines\CfgMagSCAR.hpp"
     #include "magazines\CfgMagSG550.hpp"
     #include "magazines\CfgMagSMGMisc.hpp"
     #include "magazines\CfgMagSTANAG.hpp"
+    #include "magazines\CfgMag300.hpp"
 
-    //New additions
+    // New additions
     #include "magazines\CfgMag303.hpp"
+    #include "magazines\CfgMagAK545New.hpp"
+    #include "magazines\CfgMagAK762New.hpp"
     #include "magazines\CfgMagMauser.hpp"
     #include "magazines\CfgMagPKM.hpp"
 };

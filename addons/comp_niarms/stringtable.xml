@@ -251,6 +251,36 @@
                 <German>5,45x39mm - 60 Patronen [7T3]</German>
             </Key>
         </Container>
+        <Container name="545x39_7T3MN">
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_1Rnd">
+                <English>5.45x39mm - 1 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 1 Patrone [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_10Rnd">
+                <English>5.45x39mm - 10 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 10 Patronen [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_20Rnd">
+                <English>5.45x39mm - 20 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 20 Patronen [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_30Rnd">
+                <English>5.45x39mm - 30 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 30 Patronen [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_40Rnd">
+                <English>5.45x39mm - 40 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 40 Patronen [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_50Rnd">
+                <English>5.45x39mm - 50 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 50 Patronen [7T3MN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_545x39_7T3MN_60Rnd">
+                <English>5.45x39mm - 60 Rnd [7T3MN]</English>
+                <German>5,45x39mm - 60 Patronen [7T3MN]</German>
+            </Key>
+        </Container>
         <Container name="545x39_sd">
             <Key ID="STR_greenmag_comp_niarms_545x39_sd_1Rnd">
                 <English>5.45x39mm - 1 Rnd [SD]</English>
@@ -764,6 +794,36 @@
             <Key ID="STR_greenmag_comp_niarms_762x39_57N231P_60Rnd">
                 <English>7.62x39mm - 60 Rnd [57N231P]</English>
                 <German>7,62x39mm - 60 Patronen [57N231P]</German>
+            </Key>
+        </Container>
+        <Container name="762x39_57T231PMN">
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_1Rnd">
+                <English>7.62x39mm - 1 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 1 Patrone [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_10Rnd">
+                <English>7.62x39mm - 10 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 10 Patronen [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_20Rnd">
+                <English>7.62x39mm - 20 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 20 Patronen [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_30Rnd">
+                <English>7.62x39mm - 30 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 30 Patronen [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_40Rnd">
+                <English>7.62x39mm - 40 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 40 Patronen [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_50Rnd">
+                <English>7.62x39mm - 50 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 50 Patronen [57T231PMN]</German>
+            </Key>
+            <Key ID="STR_greenmag_comp_niarms_762x39_57T231PMN_60Rnd">
+                <English>7.62x39mm - 60 Rnd [57T231PMN]</English>
+                <German>7,62x39mm - 60 Patronen [57T231PMN]</German>
             </Key>
         </Container>
         <Container name="762x39_sd">

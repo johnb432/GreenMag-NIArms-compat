@@ -1,20 +1,10 @@
-class hlc_29rnd_300BLK_STANAG: 30Rnd_556x45_Stanag {
-    GAMMO(300BO,basic,basic);
-};
-class hlc_29rnd_300BLK_STANAG_S: hlc_29rnd_300BLK_STANAG {
-    GAMMO(300BO,SMK,basic);
-};
-class hlc_29rnd_300BLK_STANAG_T: hlc_29rnd_300BLK_STANAG {
-    GAMMO(300BO,RNTB,basic);
-};
-
 class hlc_24Rnd_75x55_B_stgw: 30Rnd_556x45_Stanag {
     GAMMO(750x55,basic,basic);
 };
 class hlc_24Rnd_75x55_ap_stgw: hlc_24Rnd_75x55_B_stgw {
     GAMMO(750x55,AP,basic);
 };
-class hlc_24Rnd_75x55_T_stgw: hlc_24Rnd_75x55_B_stgw {
+class hlc_24Rnd_75x55_T_stgw: hlc_24Rnd_75x55_ap_stgw {
     GAMMO(750x55,tracer,basic);
 };
 
